@@ -1,0 +1,3 @@
+<syscheck>
+    <directories check_all="yes" report_changes="yes" realtime="yes">/etc/passwords_backup.txt</directories>
+</syscheck>
